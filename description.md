@@ -33,4 +33,11 @@ layout: default
 * A crowdsource idea could be an online review of the restaurants in the Target Complex close to our Del Norte HS campus. I would initiate this in our environment by taking a sample from the 150 CompSci principles students and use their restaurant reviews for the idea. 
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 * Our project idea is a mental awareness website to spread awareness about mental illnesses. Our final project could definetely be better with crowdsourcing. By gaining Del Norte students' opinions about mental health diseases, we could get many perspectives about how stressed students are and the cause of their stress. This allows our website to find better solutions for students like those we sampled and ensure that our website is as accurate as possible for its future users. 
-```
+
+### 5.5
+1. Make a license for your personal and Team project. Document license you picked and why.
+* I chose the GPL version 3 license because it allows my project to be accessed globally in case I wanted to expand my audience to an international audience. The license also promotes commercial use, modification, distribution, and private use.
+
+### 5.6
+1. Describe PII you have seen on project in CompSci Principles.
+* Usually we see PII in the "About Us" pages in our ComSci Principles projects. These pages usually 
