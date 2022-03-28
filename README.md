@@ -3,10 +3,10 @@
    <tr>
     <th>Week</th>
     <th>Dates</th>
-    <th>Stand Up Theme</th>
-    <th>Test Prep</th>
-    <th>Tech Talk</th>
-    <th>Canvas</th>
+    <th>Description</th>
+    <th>Link to Review Ticket</th>
+    <th>Replit Runtime</th>
+    <th>Canvas Assignment</th>
    </tr>
    
    <tr>
