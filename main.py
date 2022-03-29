@@ -1,20 +1,23 @@
 import src.week0.swap
+import src.week0.matrix
 import src.week0.function_menu
 import src.week0.tree
 import src.week1.hacks
 import src.week1.fib
+import src.week2.fac
 
-# import src.week2.fac
 # import src.week2.oop
 
 main_menu = [
-    ["Menu", src.week0.function_menu.print_menu2],
-    ["Tree", src.week0.tree.tree],
     ["Fibonacci", src.week1.fib.fibonacci],
+    ["Matrix", src.week0.matrix],
+    ["Menu", src.week0.function_menu.print_menu2],
+    ["Tree", src.week0.tree.tree]
 ]
 
 math_sub_menu = [
-    ["Swap", src.week0.swap.swapTester]
+    ["Factorial", src.week2.fac.facTester],
+    ["Swap", src.week0.swap.swapTester],
 ]
 
 # sub_menu = [
