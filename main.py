@@ -1,7 +1,9 @@
+import src.week0.swap
 import src.week0.function_menu
 import src.week0.tree
 import src.week1.hacks
 import src.week1.fib
+
 # import src.week2.fac
 # import src.week2.oop
 
@@ -9,6 +11,10 @@ main_menu = [
     ["Menu", src.week0.function_menu.print_menu2],
     ["Tree", src.week0.tree.tree],
     ["Fibonacci", src.week1.fib.fibonacci],
+]
+
+math_sub_menu = [
+    ["Swap", src.week0.swap.swapTester]
 ]
 
 # sub_menu = [
@@ -36,6 +42,7 @@ def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Loops", patterns_submenu])
+    menu_list.append(["Math", math_submenu])
     buildMenu(title, menu_list)
 
 
@@ -47,6 +54,11 @@ def submenu():
 def patterns_submenu():
     title = "Patterns Submenu" + banner
     buildMenu(title, patterns_sub_menu)
+
+
+def math_submenu():
+    title = "Patterns Submenu" + banner
+    buildMenu(title, math_sub_menu)
 
 
 def buildMenu(banner, options):
