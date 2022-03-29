@@ -1,4 +1,4 @@
-import src.week0.menu
+import src.week0.function_menu
 import src.week0.tree
 import src.week1.hacks
 import src.week1.fib
@@ -6,7 +6,7 @@ import src.week1.fib
 # import src.week2.oop
 
 main_menu = [
-    ["Menu", src.week0.menu.print_menu2],
+    ["Menu", src.week0.function_menu.print_menu2],
     ["Tree", src.week0.tree.tree],
     ["Fibonacci", src.week1.fib.fibonacci],
 ]
