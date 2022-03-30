@@ -21,8 +21,8 @@ class FindGCD:
 
 # OOP Tester
 def gcdTester():
-    # run 20 tests
-    for i in range(20):
+    # run 10 tests
+    for i in range(10):
         x = random.randrange(0, 200)
         y = random.randrange(0, 500)
         myInstance = FindGCD()
