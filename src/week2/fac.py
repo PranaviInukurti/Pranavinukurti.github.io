@@ -13,11 +13,11 @@ class Factorial:
 
 
 # prints out the final number of the factorial sequence
-print("Enter a Number: ", end="")
-num = int(input())
-
-ob = Factorial()
-print("\nFactorial of", num, "=", ob(num))
+# print("Enter a Number: ", end="")
+# num = int(input())
+#
+# ob = Factorial()
+# print("\nFactorial of", num, "=", ob(num))
 
 
 # Factorial tester
@@ -31,5 +31,4 @@ def facTester():
 
 
 if __name__ == "__main__":
-    Factorial()
     facTester()

@@ -1,31 +1,28 @@
 import src.week0.swap
 import src.week0.matrix
 import src.week0.function_menu
+import src.week0.ship
 import src.week0.tree
 import src.week1.hacks
 import src.week1.fib
 import src.week2.fac
+import src.week2.oop
 import src.week3.palindrome
-
-# import src.week2.oop
 
 main_menu = [
     ["Fibonacci", src.week1.fib.fibonacci],
-    ["Matrix", src.week0.matrix],
+    ["Matrix", src.week0.matrix.matrix],
     ["Menu", src.week0.function_menu.print_menu2],
     ["Palindrome", src.week3.palindrome.palTester],
+    ["Ship", src.week0.ship.ship],
     ["Tree", src.week0.tree.tree]
 ]
 
 math_sub_menu = [
     ["Factorial", src.week2.fac.facTester],
-    ["Swap", src.week0.swap.swapTester],
+    ["Greatest Common Denominator", src.week2.oop.gcdTester],
+    ["Swap", src.week0.swap.swapTester]
 ]
-
-# sub_menu = [
-#     ["Factorial", src.week2.fac.factorial],
-#     ["Factors", src.week2.oop.gcd],
-# ]
 
 patterns_sub_menu = [
     ["For Loop", src.week1.hacks.for_loop],
