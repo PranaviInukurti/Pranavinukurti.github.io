@@ -5,6 +5,7 @@ import src.week0.tree
 import src.week1.hacks
 import src.week1.fib
 import src.week2.fac
+import src.week3.palindrome
 
 # import src.week2.oop
 
@@ -12,6 +13,7 @@ main_menu = [
     ["Fibonacci", src.week1.fib.fibonacci],
     ["Matrix", src.week0.matrix],
     ["Menu", src.week0.function_menu.print_menu2],
+    ["Palindrome", src.week3.palindrome.palTester],
     ["Tree", src.week0.tree.tree]
 ]
 
@@ -33,12 +35,6 @@ patterns_sub_menu = [
 
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
-
-
-def patterns_submenuc():
-    title = "Class Submenu" + banner
-    m = questy.Menu(title, patterns_sub_menu)
-    m.menu()
 
 
 def menu():
