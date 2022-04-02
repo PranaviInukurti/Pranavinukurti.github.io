@@ -53,7 +53,7 @@ def patterns_submenu():
 
 
 def math_submenu():
-    title = "Patterns Submenu" + banner
+    title = "Math Submenu" + banner
     buildMenu(title, math_sub_menu)
 
 
