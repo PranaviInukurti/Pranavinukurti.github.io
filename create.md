@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Runtime On Repl](https://replit.com/join/jryxtojgmf-pranaviinukurti)
 
 HTML CODE:
