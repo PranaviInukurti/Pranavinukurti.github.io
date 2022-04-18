@@ -1,4 +1,7 @@
 [Create Task Video](https://www.youtube.com/watch?v=t4xoukzHaFE)
+
+[Written Responses](https://github.com/PranaviInukurti/Pranavinukurti.github.io/wiki/Create-Task-Plan)
+
 [Runtime On Repl](https://replit.com/join/jryxtojgmf-pranaviinukurti)
 
 HTML CODE:
