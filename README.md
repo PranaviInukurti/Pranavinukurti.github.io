@@ -36,8 +36,15 @@
   
   <tr>
     <td>4</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/PranaviInukurti/Pranavinukurti.github.io/issues/6">Review Ticket</td>
+    <td>Accounts and Login</td>
+    <td>Hacks 1 Through 3</td>
+   </tr>
+   
+   <tr>
+    <td>5</td>
+    <td><a href="https://github.com/PranaviInukurti/Pranavinukurti.github.io/issues/7">Review Ticket</td>
+    <td>Proctored MCQ#1</td>
+    <td>Quiz1,Quiz2 Scores</td>
    </tr>
 </table>
