@@ -29,7 +29,7 @@
   
    <tr>
     <td>3</td>
-    <td></td>
+    <td><a href="https://github.com/PranaviInukurti/Pranavinukurti.github.io/issues/5">Review Ticket</td>
     <td>Algorithmic Final</td>
     <td>Crossover Coding</td>
    </tr>
