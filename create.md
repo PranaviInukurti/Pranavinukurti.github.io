@@ -205,33 +205,3 @@ HTML CODE:
               else $('#display-video3').css('display', 'none')
           }
       </script>
-
-CSS CODE: 
-  h1 {
-      text-align:center;
-      font-family: monospace;
-      font-size: larger;
-      width: 65%;
-      margin: 0 auto 5%;
-      background-color: rgba(83,105,122, 0.8)
-  }
-
-  p {
-      text-align:center;
-      font-family: monospace;
-      width: 65%;
-      margin: 0 auto 5%;
-      background-color: rgba(83,105,122, 0.8)
-  }
-
-  body {
-      background-image: url('../../../static/assets/SAbg.jpg');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
-      text-align:center;
-      font-family: monospace;
-      width: 65%;
-      margin: 0 auto 5%;
-      background-color: rgba(83,105,122, 0.8);
-  }
