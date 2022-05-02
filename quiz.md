@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Final Quiz #1
+### Final Quiz #1 (Score: 42/50)
 1. Question Two: According to the domain name system (DNS), which of the following is a subdomain of the domain example.com?
 * Correct Answer is A: about.example.com because in the DNS hierarchy, a subdomain is a part of the main domain so the subdomain attaches at the beginning For example, if a domain offered an online store as part of their website example.com , it might use the subdomain shop.example.com.
 2. Question Six: ASCII is a character-encoding scheme that uses a numeric value to represent each character. For example, the uppercase letter “G” is represented by the decimal (base 10) value 71. A partial list of characters and their corresponding ASCII values are shown in the table below. ASCII characters can also be represented by hexadecimal numbers. According to ASCII character encoding, which of the following letters is represented by the hexadecimal (base 16) number 56?
@@ -20,7 +20,7 @@ layout: default
 8. Question Fourty-nine: An Internet service provider (ISP) is considering an update to its servers that would save copies of the Web pages most frequently visited by each user. Which of the following is LEAST likely to occur as a result of the update?
 * Correct Answer is D. The actions of the ISP will only affect how frequently visited pages are loaded into Web browsers. Pages not saved by the ISP are still accessed as they were before.
 
-### Final Quiz #2
+### Final Quiz #2 (Score: 35/50)
 1. Question Seven: Which of the following is an advantage of a lossless compression algorithm over a lossy compression algorithm?
 * Correct Answer is B. Lossless compression algorithms are guaranteed to be able to reconstruct the original data, while lossy compression algorithms are not.
 2. Question Eight: Which of the following is NOT an advantage of using open-source software?
