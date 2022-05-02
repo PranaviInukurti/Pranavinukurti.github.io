@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Final Quiz #3
+### Final Quiz #3 (Score: 35/50)
 1. Question Two: Which of the following best explains the ability to solve problems algorithmically?
 * Correct Answer is D. Correct. An undecidable problem is one for which no algorithm can be constructed that is always capable of providing a correct yes-or-no answer. Some instances of an undecidable problem may have an algorithmic solution, but there is no algorithmic solution that could solve all instances of the problem.
 2. Question Thirteen: Which of the following code segments correctly sets the value of the variable cost to the cost, in dollars, of using numUnits units of electricity?
