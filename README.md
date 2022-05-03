@@ -47,4 +47,11 @@
     <td>Proctored MCQ#1</td>
     <td>Quiz1,Quiz2 Scores</td>
    </tr>
+   
+   <tr>
+    <td>6</td>
+    <td><a href="https://github.com/PranaviInukurti/Pranavinukurti.github.io/issues/9">Review Ticket</a></td>
+    <td>Proctored MCQ#2</td>
+    <td>Quiz3 and Create Task Review</td>
+   </tr>
 </table>
